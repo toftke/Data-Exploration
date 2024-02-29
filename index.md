@@ -31,8 +31,7 @@ The data was very easy to work with, there were of course null values and some c
 ## Discoveries & Insights
 
 First I looked at when crimes were occuring most.
-![](Occurences of Crime throughout the day.png)
-![](Occurences of Crime throughout the day.png)
+![](Occurences of Crime throughout day.png)
 
 
 Then I wanted to find out what were the most common crimes at each time.
