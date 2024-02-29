@@ -35,7 +35,7 @@ First I looked at when crimes were occuring most.
 
 
 Then I wanted to find out what were the most common crimes at each time.
-![](Top 5 crimes by time of day.png)
+![](Top 5 crimes by time of day.png) 
 
 Then I wanted to start finding demographic information, so I started with the big picture.
 ![](Victims of Crime by Ethnicity.png)
