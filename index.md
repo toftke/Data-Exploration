@@ -1,3 +1,4 @@
+#Los Angeles Crime Data
 ## Introduction
 
 This data had a lot of interesting information, but the most interesting things that I learned were surrounding the time of day of crime and crime victim demographics. I hyper-focused in on the most victimized demographic in the area of Los Angeles with the most crime, finding that Hispanic Men are significantly more likely to be the victim of a crime compared to any other demographic.
