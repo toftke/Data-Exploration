@@ -35,31 +35,31 @@ First I looked at when crimes were occuring most.
 
 
 Then I wanted to find out what were the most common crimes at each time.
-![](Top 5 crimes by time of day.png) 
+![](Top 5 crimes by time of day1.png) 
 
 Then I wanted to start finding demographic information, so I started with the big picture.
-![](Victims of Crime by Ethnicity.png)
+![](Victims of Crime by Ethnicity1.png)
 
 After that I wanted to find out how Gender factored in.
-![](Victims of Crime by Ethnicity and Gender.png)
+![](Victims of Crime by Ethnicity and Gender1.png)
 
 Seeing that People of Hispanic Descent are the most victimized, I looked into which age groups had the most victims.
-![](Hispanic Victims by age group and gender.png)
+![](Hispanic Victims by age group and gender1.png)
 
 Taking a step back, I decided to see which areas of Los Angeles had the most crime throughout the year.
-![](top 5 areas of crime in each quarter of year.png)
+![](top 5 areas of crime in each quarter of year1.png)
 
 Central Los Angeles had the most crime, so I wanted to know which crimes were most common.
-![](top 10 crimes commited in central LA.png)
+![](top 10 crimes commited in central LA1.png)
 
 Then I checked out the demographics of Central Los Angeles to see if they reflected the same as the county
-![](Central LA Victim Demographics.png)
+![](Central LA Victim Demographics1.png)
 
 Taking everything so far together, I looked to see when crimes were commited against people of Hispanic Descent in Central Los Angeles 
-![](Number of Crimes against Hispanics in Central LA through the day.png)
+![](Number of Crimes against Hispanics in Central LA through the day1.png)
 
 As an additional question, I wanted to check what the average report time for a crime was for people of different descents and how it stacked up against which people were commonly victimized.
-![](top 10 average report times by ethnicity.png)
+![](top 10 average report times by ethnicity1.png)
 
 
 ## Conclusion
