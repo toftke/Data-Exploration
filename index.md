@@ -29,6 +29,7 @@ Something that surprised me in the data was how the crime demographics changed f
 The data was very easy to work with, there were of course null values and some codes that needed to be figured out, but Tableau has features for dealing with that.
 
 ## Discoveries & Insights
+
 First I looked at when crimes were occuring most.
 ![](Occurences of Crime throughout the day.png)
 
